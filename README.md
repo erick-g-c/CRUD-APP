@@ -38,6 +38,7 @@ Example of a user object:
   "gender": "male"
 }
 
+---
 ## ▶️ How to run the project locally
 
 ### 1. Install dependencies
