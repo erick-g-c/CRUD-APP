@@ -15,11 +15,10 @@ It also includes pagination and dynamic table rendering using JavaScript.
 
 ## 🧰 Tech Stack
 
-- Vite  
-- Vanilla JavaScript  
-- HTML  
-- CSS  
-- JSON (mock database)
+* **Vite** (Build tool)
+* **Vanilla JavaScript** (Logic)
+* **HTML5 & CSS3** (Structure and Styling)
+* **JSON** (Mock database)
 
 ---
 
@@ -32,22 +31,19 @@ Example of a user object:
   "id": 1,
   "isActive": false,
   "balance": 1397.32,
-  "avatar": "http://placehold.it/32x32",
+  "avatar": "[http://placehold.it/32x32](http://placehold.it/32x32)",
   "first_name": "Ryan",
   "last_name": "Kent",
   "gender": "male"
 }
+```
+--- 
 
 ## ▶️ How to run the project locally
 
 ### 1. Install dependencies
+
 ```bash
 npm install
 
 npm run dev
-
-# Build for production
-npm run build
-
-# Preview build
-npm run preview
