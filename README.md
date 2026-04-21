@@ -38,18 +38,16 @@ Example of a user object:
   "gender": "male"
 }
 
----
 ## ▶️ How to run the project locally
 
 ### 1. Install dependencies
 ```bash
 npm install
 
-# Start development server
 npm run dev
 
-# Optional (build for production)
+# Build for production
 npm run build
 
-# Optional (preview build)
+# Preview build
 npm run preview
